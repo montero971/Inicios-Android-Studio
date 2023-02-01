@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PAC_UF2_MonteroGuerreroJoseManuel</string>
+    <string name="hacer_foto">Hacer foto</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="todo">TODO</string>
+    <string name="activity_4">Activity 4</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="todo1">TODO</string>
+</resources>
